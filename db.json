@@ -1,1 +1,13 @@
-
+{
+  "infos": [
+    {
+      "id": 1,
+      "title": "Distribution de lampes solaires : La Fondation MTN rend la vie des populations rurales radieuse",
+      "image": "https://www.mtn.bj/wp-content/uploads/2018/11/Distribution_Lampes_Solaires-small-1024x683.jpg",
+      "description": "Dans le cadre de ses activités de ses 10 ans, la Fondation MTN Benin a procédé à la distribution de centaines de lampes à énergie solaire dans les zones rurales du nord Bénin, notamment Soclogbo, Kika, Founougo et Firou, respectivement dans les communes de Savalou, Parakou, Kandi, Natitingou. L’énergie est un problème majeur dans notre pays et de nombreuses personnes vivant dans les zones rurales n’ont pas accès à l’électricité. Avec des lampes promettant jusqu’à 12 heures de lumière à la fois, ce don rendra la vie de ces communautés encore plus radieuse. La prochaine distribution aura lieu ce mercredi 21 Novembre à Bassila."
+    }
+  ],
+  "profile": {
+    "name": "yagamik"
+  }
+}
