@@ -78,16 +78,26 @@
       "offer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
     }
   ],
-  "promos": {
+  "promos": [
+    {
       "id": 1,
       "title": "MTN Flexi promo",
       "image": "https://www.mtn.bj/wp-content/uploads/2019/06/Formation-PAO-6.jpeg",
       "description": ""
     },
-  "faqs": {
+    {
+      "id": 2,
+      "title": "MTN Pro",
+      "image": "https://www.mtn.bj/wp-content/uploads/2019/06/Formation-PAO-6.jpeg",
+      "description": ""
+    }
+  ],
+  "faqs": [
+    {
       "id": 1,
       "solutionId": 1,
       "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat?",
       "response": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    }
+    },
+  ]
 }
