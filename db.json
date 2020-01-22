@@ -16,19 +16,23 @@
   "categories": [
     {
       "id": 1,
-      "name": "Communication"
+      "name": "Communication",
+      "image": "https://www.mtn.bj/wp-content/uploads/2019/06/MTN_SITEMAP_STANDARD_PRO_1000pxX667px.jpg"
     },
     {
       "id": 2,
-      "name": "Connectivité"
+      "name": "Connectivité",
+      "image": "https://www.mtn.bj/wp-content/uploads/2019/06/IMPORT_ALIDe.jpg"
     },
     {
       "id": 3,
-      "name": "Collaboratives"
+      "name": "Collaboratives",
+      "image": "https://www.mtn.bj/wp-content/uploads/2019/06/IMPORT_ALL-IN-ONE.jpg"
     },
     {
       "id": 4,
-      "name": "Publicité via Mobile"
+      "name": "Publicité via Mobile",
+      "image": "https://www.mtn.bj/wp-content/uploads/2019/06/MoMo-bank.jpg"
     }
   ],
   "solutions": [
