@@ -18,7 +18,7 @@
       "id": 1,
       "name": "Communication",
       "image": "https://www.mtn.bj/wp-content/uploads/2019/06/MTN_SITEMAP_STANDARD_PRO_1000pxX667px.jpg",
-      "solutions": [
+      "solutions": {
         {
           "id": 1,
           "name": "Mobile Pro",
@@ -35,13 +35,13 @@
           "avantage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
           "offer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         }
-      ]
+      }
     },
     {
       "id": 2,
       "name": "Connectivité",
       "image": "https://www.mtn.bj/wp-content/uploads/2019/06/IMPORT_ALIDe.jpg",
-      "solutions": [
+      "solutions": {
         {
           "id": 1,
           "name": "MTN Pro",
@@ -50,13 +50,13 @@
           "avantage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
           "offer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
         }
-      ]
+      }
     },
     {
       "id": 3,
       "name": "Collaboratives",
       "image": "https://www.mtn.bj/wp-content/uploads/2019/06/IMPORT_ALL-IN-ONE.jpg",
-      "solutions": [
+      "solutions": {
         {
           "id": 1,
           "name": "MTN Mail Services",
@@ -65,13 +65,13 @@
           "avantage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
           "offer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
         }
-      ]
+      }
     },
     {
       "id": 4,
       "name": "Publicité via Mobile",
       "image": "https://www.mtn.bj/wp-content/uploads/2019/06/MoMo-bank.jpg",
-      "solutions": [
+      "solutions": {
         {
           "id": 1,
           "name": "MTN Mobile Advertising",
@@ -80,7 +80,7 @@
           "avantage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
           "offer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
         }
-      ]
+      }
     }
   ],
   "promos": [
