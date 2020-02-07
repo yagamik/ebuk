@@ -1,5 +1,5 @@
 {
-  "infos": [ 
+  "infos": [
     {
       "id": 1,
       "title": "Distribution de lampes solaires",
@@ -13,82 +13,82 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
     }
   ],
-  "categories": [
+  "solutions": [
     {
       "id": 1,
-      "name": "Communication",
+      "category": "Communication",
       "image": "https://www.mtn.bj/wp-content/uploads/2019/06/MTN_SITEMAP_STANDARD_PRO_1000pxX667px.jpg",
-      "solutions": [
+      "products": [
         {
           "id": 1,
           "name": "Mobile Pro",
-          "descriptionTech": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-          "descriptionCom": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-          "avantage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-          "offer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+          "descriptionCom": "Description Commerciale mobile pro.",
+          "descriptionTech": "Description technique mobile pro",
+          "avantage": "Avantages mobile pro",
+          "offer": "Offres mobile pro"
         },
         {
           "id": 2,
           "name": "MTN E-mail Pro",
-          "descriptionTech": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "descriptionCom": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "avantage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "offer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "descriptionCom": "Description commerciale mtn e-mail pro",
+          "descriptionTech": "Description technique mtn e-mail pro",
+          "avantage": "Avantages mtn email pro",
+          "offer": "Offres mtn email pro"
         }
       ]
     },
     {
       "id": 2,
-      "name": "Connectivité",
+      "category": "Connectivité",
       "image": "https://www.mtn.bj/wp-content/uploads/2019/06/IMPORT_ALIDe.jpg",
-      "solutions": [
+      "products": [
         {
           "id": 1,
           "name": "MTN Pro",
-          "descriptionTech": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-          "descriptionCom": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-          "avantage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-          "offer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+          "descriptionCom": "Description commerciale mtn pro",
+          "descriptionTech": "Description technique mtn pro",
+          "avantage": "Avantages mtn pro",
+          "offer": "Offres mtn pro"
         }
       ]
     },
     {
       "id": 3,
-      "name": "Collaboratives",
+      "category": "Collaboratives",
       "image": "https://www.mtn.bj/wp-content/uploads/2019/06/IMPORT_ALL-IN-ONE.jpg",
-      "solutions": [
+      "products": [
         {
           "id": 1,
           "name": "MTN Mail Services",
-          "descriptionTech": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-          "descriptionCom": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-          "avantage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-          "offer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+          "descriptionCom": "Description commerciale mtn mail services",
+          "descriptionTech": "Description technique mtn mail services",
+          "avantage": "Avantages mtn mail services",
+          "offer": "Offres mtn mail services"
         }
       ]
     },
     {
       "id": 4,
-      "name": "Publicité via Mobile",
+      "category": "Publicité via Mobile",
       "image": "https://www.mtn.bj/wp-content/uploads/2019/06/MoMo-bank.jpg",
-      "solutions": [
+      "products": [
         {
           "id": 1,
           "name": "MTN Mobile Advertising",
-          "descriptionTech": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-          "descriptionCom": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-          "avantage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-          "offer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+          "descriptionCom": "Description commerciale mtn mobile advertising",
+          "descriptionTech": "Description technique mtn mobile advertising",
+          "avantage": "Avantages mtn mobile advertising",
+          "offer": "Offres mtn mobile advertising"
         }
       ]
     }
   ],
   "promos": [
     {
-      "id": 1,
-      "title": "MTN Flexi promo",
-      "image": "https://www.mtn.bj/wp-content/uploads/2019/06/Formation-PAO-6.jpeg",
-      "description": ""
+      "title": "Test 1",
+      "image": "https://www.mtn.bj/wp-content/uploads/2019/12/MTN_END-OF-YEAR_TOP_BANNER_1300pxX510px-01.png",
+      "description": "",
+      "id": 1
     },
     {
       "id": 2,
@@ -97,11 +97,10 @@
       "description": ""
     }
   ],
-  "faqs":
-    {
-      "id": 1,
-      "solutionId": 1,
-      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat?",
-      "response": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    }
+  "faqs": {
+    "id": 1,
+    "solutionId": 1,
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat?",
+    "response": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  }
 }
