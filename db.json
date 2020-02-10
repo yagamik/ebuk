@@ -85,13 +85,7 @@
   ],
   "promos": [
     {
-      "title": "Test 1",
-      "image": "https://www.mtn.bj/wp-content/uploads/2019/12/MTN_END-OF-YEAR_TOP_BANNER_1300pxX510px-01.png",
-      "description": "",
-      "id": 1
-    },
-    {
-      "id": 2,
+      "id": 1,
       "title": "MTN Pro",
       "image": "https://www.mtn.bj/wp-content/uploads/2019/08/MTN_SOHO_513301140.jpg",
       "description": ""
